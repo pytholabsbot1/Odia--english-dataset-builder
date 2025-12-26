@@ -1,0 +1,5 @@
+{
+  "name": "Odia-English Dataset Builder",
+  "description": "A professional tool for creating high-quality Odia to English translation datasets for LLM fine-tuning. It handles bulk imports, batch processing using Gemini, and IndexedDB storage with TSV export capabilities.",
+  "requestFramePermissions": []
+}
